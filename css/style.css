@@ -1,0 +1,50 @@
+.name{
+	color:red;
+}
+.button{
+	background-color: #9a9ac8;;
+	padding-right:0 0 100 60px;
+}
+.box1{
+	background-color:red;
+}
+
+.text{
+	color:blue;
+	text-align:center;
+}
+.bgcolor{
+	border-style:solid;
+	margin-top:50px;
+	margin-left:50px;
+	margin-right:50px;
+	
+}
+.container1{
+	display:flex;
+	padding-left:25px;
+	text-align:left;
+	padding-bottom:25px;
+	
+}
+.top{
+	flex-basis:7%;
+}
+.bottom{
+	text-align:left;
+	flex-basis:left;
+	padding-left:2px;
+	word-spacing:1cm;
+	
+}
+.container2{
+	padding-left:20px;
+	padding-right:20px;
+	
+}
+.dr{
+	background-color:black;
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:25px;
+}
